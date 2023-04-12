@@ -14,4 +14,6 @@
 
 사용 기술 : TensorFlow, Numpy, Keras, CUDA, DJI GO 4
 
-담당 업무 : 딥러닝 학습, 1
+담당 업무 : 딥러닝 학습, 1학기 조장
+
+**파싱코드만 
